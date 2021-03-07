@@ -12,6 +12,7 @@ Spring의 핵심 기능인 AOP(Aspect Oriented Programming) 실습 프로젝트
   - Java classes + **XML**
   - Java classes + **annotation**
 - **Pointcut**: advice가 실행되어야 하는 joinpoint의 집합
+  - expression이나 pattern을 사용하여 지정
 - **JoinPoint**: AOP를 연결할 수 있는 지점
 - **Advice**: 메소드 실행 전후에 수행할 실제 작업
 

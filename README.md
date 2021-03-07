@@ -26,7 +26,7 @@ Spring의 핵심 기능인 AOP(Aspect Oriented Programming) 실습 프로젝트
 - AnimalType: 인터페이스
 - Dog, Cat: AnimalType을 구현한 클래스
 - PetOwner: AnimalType의 owner, AnimalType에 Dog나 Cat이 주입됨
-- **Logger**: logging 기능을 수행하는 클래스 👉 **Cat과 Dog의 sound() 메소드가 수행되기 전 또는 후에 로깅 메시지를 넣음**
+- **Logger**: logging 기능을 수행하는 클래스(aspect) 👉 **Cat과 Dog의 sound() 메소드가 수행되기 전 또는 후에 로깅 메시지를 넣음**
 
 ✔️ **Run**
 

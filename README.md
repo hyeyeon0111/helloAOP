@@ -30,11 +30,11 @@ Spring의 핵심 기능인 AOP(Aspect Oriented Programming) 실습 프로젝트
 
 ✔️ **Run**
 
-- sound() 메소드 수행 전에(**before**) 로깅 메시지 출력
+- Cat의 sound() 메소드 수행 전에(**before**) 로깅 메시지 출력
 
   <img src="https://user-images.githubusercontent.com/56067179/110232628-2c331580-7f62-11eb-93ba-a7baa872d631.PNG" width="600"/>
 
-- sound() 메소드 수행 후에(**after**) 로깅 메시지 출력
+- Dog의 sound() 메소드 수행 후에(**after**) 로깅 메시지 출력
 
   <img src="https://user-images.githubusercontent.com/56067179/110232629-2d644280-7f62-11eb-83ca-dde89fb45a75.PNG" width="600"/>
  
